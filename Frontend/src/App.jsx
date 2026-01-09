@@ -11,6 +11,7 @@ import Density from "./pages/density";
 import CrowdDetector from "./pages/CrowdDetector";
 import MapPage from "./pages/MapPage";
 import AdminPage from "./pages/AdminPage";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -43,6 +44,7 @@ function App() {
 
   return (
     <div className="app">
+      <ScrollToTop />
       <Routes>
         <Route
           path="/"
