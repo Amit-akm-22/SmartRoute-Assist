@@ -3,7 +3,7 @@ const getBackendUrl = () => {
     if (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1") {
         return "http://localhost:3001/api/v1";
     }
-    return import.meta.env.VITE_API_URL || "https://divyayatra-devsprint.onrender.com/api/v1";
+    return import.meta.env.VITE_API_URL || "https://smartroute-assist.onrender.com/api/v1";
 };
 
 export const BACKEND_URL = getBackendUrl();

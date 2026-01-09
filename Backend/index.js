@@ -26,6 +26,7 @@ const __dirname = path.dirname(__filename);
 app.use(
   cors({
     origin: [
+      "https://smartroute-assist.onrender.com",
       "https://divyayatra-devsprint.onrender.com", // Backend itself
       "https://divya-yatra-devsprint.vercel.app/",
       "https://divya-yatra-devsprint-ten.vercel.app",
