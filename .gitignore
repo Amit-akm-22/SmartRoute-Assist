@@ -1,0 +1,30 @@
+# Large backup files
+*.zip
+
+# Env files
+.env
+Backend/.env
+Frontend/.env
+
+# Dependencies
+Backend/node_modules
+Frontend/node_modules
+
+# AI Core
+Backend/AI_Core
+
+# Uploads / generated files
+Backend/uploads/
+
+# Python
+venv/
+Backend/venv
+
+# Build outputs
+dist/
+build/
+
+# Large media files
+Frontend/src/assets/mandir.mp4
+Frontend/src/assets/*.png
+*.mp4
