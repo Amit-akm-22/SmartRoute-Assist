@@ -28,15 +28,19 @@ A powerful control center for administrators to monitor system health, gate flow
 
 ---
 
-## 📸 visual Gallery
+## 🖼️ Visual Gallery
 
-<div align="center">
-  <img src="Assests/LoginPage.png" width="45%" alt="Login Page" />
-  <img src="Assests/Services.png" width="45%" alt="Services Overview" />
-  <br />
-  <img src="Assests/MapPage.png" width="45%" alt="Map & Navigation" />
-  <img src="Assests/ProfilePage.png" width="45%" alt="User Profile" />
-</div>
+### Login Page
+![Login Page](Assests/LoginPage.png)
+
+### Services Overview
+![Services Overview](Assests/Services.png)
+
+### Map & Navigation
+![Map & Navigation](Assests/MapPage.png)
+
+### User Profile
+![User Profile](Assests/ProfilePage.png)
 
 ---
 
