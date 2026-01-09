@@ -26,5 +26,4 @@ build/
 
 # Large media files
 Frontend/src/assets/mandir.mp4
-Frontend/src/assets/*.png
 *.mp4
